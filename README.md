@@ -5,6 +5,10 @@ In this repo, I made analysis of spam message detection using NLP. Here are the 
 
 This repository consists of files required for end to end implementation and deployment of Machine Learning Spam Detection web application created with flask and deployed on the Heroku platform.
 
+## App Link
+Here you can check the live website:
+https://spam-detection01.herokuapp.com/
+
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
